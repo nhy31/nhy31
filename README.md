@@ -1,8 +1,8 @@
-<h1>✨nhy31-github✨</h1>
+<div align=center><h1>✨nhy31-github✨</h1></div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%238CB2D4&title_bg=%23C3D6DE&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2>:bulb:introuuce</h2>
+<h2 align=center>:bulb: introuuce</h2>
 👯 안녕하세요 <br>
 😄 hang-ni <br>
 ⚡ 24세 <br>
@@ -13,7 +13,7 @@
 📫 nahay131@gmail.com <br><br>
 
 
-<h2>languages & framework</h2>
+<h2>:books: languages & framework</h2>
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
