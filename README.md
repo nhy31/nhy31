@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-24
-
 <!--
 **nhy31/nhy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 동덕여대 컴퓨터학과 4학년입니다.
+- 🌱 2022년 1월부터 AI 웹서비스 프로젝트를 개발하기 위해 현재는 Spring과 Vue.js를 공부중입니다.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
