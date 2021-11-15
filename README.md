@@ -1,4 +1,6 @@
 <h1>✨nhy31-github✨</h1>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%238CB2D4&title_bg=%23C3D6DE&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2>introuuce</h2>
 👯 안녕하세요 <br>
 😄 hang-ni <br>
@@ -10,7 +12,7 @@
 📫 nahay131@gmail.com <br><br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%238CB2D4&title_bg=%23C3D6DE&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <h2>languages & framework</h2>
 <p>
