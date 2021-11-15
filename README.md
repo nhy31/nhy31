@@ -4,7 +4,7 @@
 </div>
 
 <h2>:bulb: introuuce</h2>
--:cat:Welcome to nhy31-github:cat:
+-:cat:Welcome to nhy31-github:cat: <br>
 -👯 안녕하세요. 반갑습니다 <br>
 -😄 HaYoon (hang-ni), 24세 <br>
 -⚡ Mbti는 INTJ, 취미는 요리/게임/독서입니다. <br>
