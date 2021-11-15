@@ -1,16 +1,15 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%23FF5DC8&title_bg=%23969595&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2>:cat:Welcome to nhy31-github:cat:</h2>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%238CB2D4&title_bg=%23C3D6DE&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <h2>:bulb: introuuce</h2>
-👯 안녕하세요. 반갑습니다 <br>
-😄 Na Ha Yoon (hang-ni), 24세 <br>
-⚡ Mbti는 INTJ, 취미는 요리/게임/독서입니다. <br>
-🔭 동덕여대 컴퓨터학과 4학년입니다. 현재 교내 AI 웹서비스 동아리 DALC에서 프로젝트를 준비하고 있습니다.<br>
-🌱 요즘 Spring과 Vue.js, 알고리즘을 공부중입니다. <br>
-🤔 알고리즘, 코팅테스트 준비하기 <br>
-💬 https://hang-ni.tistory.com/ <br>
-📫 nahay131@gmail.com <br><br>
+-👯 안녕하세요. 반갑습니다 <br>
+-😄 Na Ha Yoon (hang-ni), 24세 <br>
+-⚡ Mbti는 INTJ, 취미는 요리/게임/독서입니다. <br>
+-🔭 동덕여대 컴퓨터학과 4학년입니다. 현재 교내 AI 웹서비스 동아리 DALC에서 프로젝트를 준비하고 있습니다.<br>
+-🌱 요즘 Spring과 Vue.js, 알고리즘을 공부중입니다. <br>
+-🤔 알고리즘, 코팅테스트 준비하기 <br>
+-💬 https://hang-ni.tistory.com/ <br>
+-📫 nahay131@gmail.com <br><br>
   
 <h2>:books: languages & framework</h2>
 <p>
