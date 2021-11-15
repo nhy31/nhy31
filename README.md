@@ -2,9 +2,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%23E362B7&title_bg=%23969595&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<h2>:cat:Welcome to nhy31-github:cat: <br></h2>
 
 <h2>:bulb: introuuce</h2>
--:cat:Welcome to nhy31-github:cat: <br>
 -👯 안녕하세요. 반갑습니다 <br>
 -😄 HaYoon (hang-ni), 24세 <br>
 -⚡ Mbti는 INTJ, 취미는 요리/게임/독서입니다. <br>
