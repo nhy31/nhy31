@@ -3,8 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h2>:cat:Welcome to nhy31-github:cat: <br></h2>
-
-<h2>:bulb: introuuce</h2>
 -👯 안녕하세요. 반갑습니다 <br>
 -😄 HaYoon <br>
 -💬 https://hang-ni.tistory.com/ <br>
