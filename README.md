@@ -3,8 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h2>:cat:Welcome to nhy31-github:cat: <br></h2>
--👯 안녕하세요. 반갑습니다 <br>
--😄 HaYoon <br>
+-👯 현재 동덕여대 컴퓨터학과에 재학중입니다. <br>
+-😄 요즘은 DALC 동아리에서 ai 웹프로젝트를 개발하고 있습니다. <br>
 -💬 https://hang-ni.tistory.com/ <br>
 -📫 nahay131@gmail.com <br><br>
   
