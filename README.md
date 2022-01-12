@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%23E362B7&title_bg=%23969595&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<h2>:cat:Welcome to nhy31-github <br></h2>
+<h2>:cat:Welcome to nhy31-github:cat:<br></h2>
 -👯 현재 동덕여대 컴퓨터학과에 재학중입니다. <br>
 -😄 요즘은 DALC 동아리에서 ai 웹프로젝트를 개발하고 있습니다. <br>
 -💬 https://hang-ni.tistory.com/ <br>
