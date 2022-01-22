@@ -11,10 +11,6 @@
 <h2>:information_desk_person: introduce</h2>
 - 동덕여대 컴퓨터학과 재학 <br>
 - 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
-- e-mail) nahay131@gmail.com <br>
-- tistory) https://hang-ni.tistory.com/ <br> 
-- github) https://github.com/nhy31 <br>
-- blog) <br>
 
 <h2>:books: stack</h2>
 <p>
