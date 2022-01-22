@@ -2,10 +2,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%23E362B7&title_bg=%23969595&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div align="center"><h2>:cat:Welcome to nhy31-github:cat:</h2></center>
+<div align="center">
+<h2>:cat:Welcome to nhy31-github:cat:</h2>
 
-<h2>introduce</h2>
-:information_desk_person: 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
+<h2>:information_desk_person: introduce</h2>
+현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
 
 <h2>:books: stack</h2>
 <p>
@@ -23,9 +24,8 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/> <br>
 
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <br>
-
- </p>
-
+</p>
+</div>
 
 
 
