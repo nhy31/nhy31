@@ -7,6 +7,7 @@
 <h1>:cat:Welcome to nhy31-github:cat:</h1>
 </div>
 
+<br><br>
 <h2>:information_desk_person: introduce</h2>
 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
 
