@@ -9,7 +9,7 @@
 
 <br>
 <h2>:information_desk_person: introduce</h2>
-- 동덕여대 컴퓨터학과 재학 <br>
+- 동덕여자대학교 컴퓨터학과 재학 중... <br>
 - 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
 
 <h2>:books: stack</h2>
