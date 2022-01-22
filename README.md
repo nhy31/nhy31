@@ -2,12 +2,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhy31&count_bg=%23E362B7&title_bg=%23969595&icon=superuser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<h2>:cat:Welcome to nhy31-github:cat:<br></h2>
-- :information_desk_person: 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
-- 
+<div align="center"><h2>:cat:Welcome to nhy31-github:cat:</h2></center>
+
+<h2>introduce</h2>
+:information_desk_person: 현재 동아리 DALC에서 ai 웹프로젝트를 개발 중... <br>
+
 <h2>:books: stack</h2>
 <p>
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
