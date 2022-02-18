@@ -9,12 +9,11 @@
 
 <br>
 <h2>:information_desk_person: introduce</h2>
-- 동덕여자대학교 컴퓨터학과 재학 중 (2018~) <br>
-- 교직이수 중 (2019~) <br>
-- SK LOOKIE Project Leader (2020/09~2021/02)  <br>
-- 교내동아리 DALC 운영진 (2021/09~)  <br> <br>
+- [2018.03~] 동덕여자대학교 컴퓨터학과 재학 중<br>
+- [2019.11~] 교직이수 중 <br>
+- [2020.09~2021.02] SK LOOKIE Project Leader  <br>
+- [2021.09~] 교내동아리 DALC 운영진  <br> <br>
 - 최근 동아리 DALC에서 AI 웹프로젝트를 개발 중 (2022/01~)  <br>
-
 
 <h2>:books: stack</h2>
 <p>
