@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>                                                                             
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/> 
+
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
   
 </p>
