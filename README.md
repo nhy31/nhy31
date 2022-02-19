@@ -13,7 +13,7 @@
 - [2019.11~2022.08] 교직이수 중 <br>
 - [2020.09~2021.02] SK LOOKIE Project Leader  <br>
 - [2021.09~2022.02] 교내동아리 DALC 운영진  <br> <br>
-- 
+
 - 최근 동아리 DALC에서 AI 웹프로젝트를 개발 중 <br>
 
 <h2>:books: stack</h2>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>                                                                             
-<img src="https://img.shields.io/badge/Apache Hadoop-#66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
   
 </p>
