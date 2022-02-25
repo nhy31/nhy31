@@ -16,7 +16,7 @@
 
 - 최근 동아리 DALC에서 AI 웹프로젝트를 개발 중 <br>
 
-<h2>:information_desk_person: my project</h2>
+<h2>:star: my project</h2>
 
 <h2>:books: stack</h2>
 <p>
