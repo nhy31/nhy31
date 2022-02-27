@@ -14,10 +14,10 @@
 - [2020.09~2021.02] SK LOOKIE Project Leader  <br>
 - [2021.09~2022.02] 교내동아리 DALC 운영진  <br> <br>
 
-- 최근 동아리 DALC에서 AI 웹프로젝트를 개발 중 <br>
+
 
 <h2>:star: my project</h2>
-- 
+- 아프다 아파, 현대사회 : AI + Web Project -> https://github.com/nhy31/DALC-team05   
 
 <h2>:books: stack</h2>
 <p>
