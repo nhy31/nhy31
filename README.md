@@ -17,7 +17,9 @@
 
 
 <h2>:star: my project</h2>
-- AI & Web Project 아프다 아파, 현대사회 (사용자 질병별 요리 레시피 및 홈트레이닝 추천 웹서비스) : https://github.com/nhy31/DALC-team05   
+- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05   
+- Web Project 솜씽이 : https://github.com/nhy31/Somssing
+- 
 
 <h2>:books: stack</h2>
 <p>
