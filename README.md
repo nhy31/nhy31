@@ -17,8 +17,8 @@
 
 
 <h2>:star: my project</h2>
-- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05   
-- Web Project 솜씽이 : https://github.com/nhy31/Somssing
+- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05   <br>
+- 
 - 
 
 <h2>:books: stack</h2>
