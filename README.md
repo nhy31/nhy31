@@ -9,16 +9,14 @@
 
 <br>
 <h2>:information_desk_person: introduce</h2>
-- [2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 중<br>
-- [2019.11~2022.08] 교직이수 중 <br>
+- [2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 <br>
+- [2019.11~2022.08] 교직이수 이수 <br>
 - [2020.09~2021.02] SK LOOKIE Project Leader  <br>
-- [2021.09~2022.02] 교내동아리 DALC 운영진  <br> <br>
-
+- [2021.09~2022.02] 교내동아리 DALC 운영진  <br> 
 
 
 <h2>:star: my project</h2>
-- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05   <br>
-- 
+- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05  <br>
 - 
 
 <h2>:books: stack</h2>
@@ -41,9 +39,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>                                                                             
-
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
-  
 </p>
 
 
