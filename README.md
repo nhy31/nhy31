@@ -9,17 +9,13 @@
 
 <br>
 <h2>:information_desk_person: introduce</h2>
-- [2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 <br>
-- [2019.11~2022.08] 교직이수 이수 <br>
-- [2020.09~2021.02] SK LOOKIE Project Leader  <br>
-- [2021.09~2022.02] 교내동아리 DALC 운영진  <br> 
+[2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 <br>
+[2019.11~2022.08] 교직이수 이수 중 <br>
+[2020.09~2021.02] SK LOOKIE Project Leader  <br>
+[2021.09~2022.02] 교내동아리 DALC 운영진  <br> 
 
 
-<h2>:star: my project</h2>
-- AI & Web Project 아프다 아파, 현대사회 : https://github.com/nhy31/DALC-team05  <br>
-- 
-
-<h2>:books: stack</h2>
+<h2>:books: tech-stack & tools </h2>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
