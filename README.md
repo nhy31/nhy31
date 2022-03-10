@@ -15,7 +15,7 @@
 [2021.09~2022.02] 교내동아리 DALC 운영진  <br> 
 
 
-<h2>:books: tech-stack & tools </h2>
+<h2>:books: tech-stack </h2>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
