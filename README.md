@@ -4,17 +4,18 @@
 </div>
 
 <br>
-<h2>:information_desk_person: introduce</h2>
-[2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 <br>
-[2019.11~2022.08] 교직이수 이수 중 <br>
-[2020.09~2021.02] SK LOOKIE Project Leader  <br>
-[2021.09~2022.02] AI 웹서비스 동아리 DALC 운영진  <br> 
+<h2>:cat: hello</h2>
+📝 알고리즘 풀이 및 일상 기록 업데이트 중 : https://hang-ni.tistory.com/ <br>
+<!--💬  3월 말 동덕여자중학교 교생 실습 예정<br> -->
 
 <br>
-<h2>:cat: </h2>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Java&logoColor=white"/>
-https://hang-ni.tistory.com/<br>
-:mailbox: nahay131@gmail.com, nahay131@naver.com <br>
+<h2>:information_desk_person: introduce</h2>
+🎓 [18.03~22.08] 동덕여자대학교 컴퓨터학과 재학 <br>
+✏️ [19.11~22.08] 교직이수 이수 중 <br>
+🔖 [20.09~21.02] SK LOOKIE Project Leader  <br>
+🌱 [21.09~22.02] AI 웹서비스 동아리 DALC 운영진  <br> 
+
+
 <h2>:books: tech-stack </h2>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,7 +31,6 @@ https://hang-ni.tistory.com/<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/ >
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Apache Tomcat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Apache Tomcat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
