@@ -38,4 +38,11 @@
 </p>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=material-palenight)
+<h2>⭐ stats</h2>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=material-palenight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhy31&layout=compact&theme=material-palenight)
+
+
+
