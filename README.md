@@ -38,6 +38,4 @@
 </p>
 
 <br>
-![nhy31's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=radical)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=radical)
