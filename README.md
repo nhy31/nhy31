@@ -4,7 +4,7 @@
 </div>
 
 <br>
-<h2>:cat: hello</h2>
+<h2>:cat: blog</h2>
 💬 https://hang-ni.tistory.com/ <br>
 <!--  3월 말 동덕여자중학교 교생 실습 예정<br> -->
 
