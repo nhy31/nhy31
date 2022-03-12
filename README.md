@@ -4,9 +4,10 @@
 </div>
 
 <br>
-<h2>:cat:welcome to nhy31-github</h2>
+<h2>hello</h2>
+:cat: welcome to nhy31-github
 :octocat: https://hang-ni.tistory.com/<br>
-:mailbox: nahay@gmail.com / nahay@naver.com<br>
+:mailbox: nahay131@gmail.com / nahay131@naver.com<br>
 
 <br>
 <h2>:information_desk_person: introduce</h2>
