@@ -40,7 +40,7 @@
 <br>
 <h2>⭐ stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhy31&layout=compact&theme=material-palenight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhy31&layout=compact&theme=material-palenight)-->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=material-palenight)
 
