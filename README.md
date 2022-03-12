@@ -4,9 +4,8 @@
 </div>
 
 <br>
-<h2>:cat: blog</h2>
+<h2>:cat: my blog</h2>
 💬 https://hang-ni.tistory.com/ <br>
-<!--  3월 말 동덕여자중학교 교생 실습 예정<br> -->
 
 <br>
 <h2>:information_desk_person: introduce</h2>
@@ -38,5 +37,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
 </p>
+
 
 
