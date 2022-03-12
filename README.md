@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<br>
 <h2>:cat: my blog</h2>
 💬 https://hang-ni.tistory.com/ <br>
 
@@ -14,7 +13,7 @@
 🔖 [20.09~21.02] SK LOOKIE Project Leader  <br>
 🌱 [21.09~22.02] AI 웹서비스 동아리 DALC 운영진  <br> 
 
-
+<br>
 <h2>:books: stack </h2>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -38,5 +37,7 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
 </p>
 
+<br>
+![nhy31's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhy31&show_icons=true&theme=radical)
 
 
