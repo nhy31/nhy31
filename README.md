@@ -5,8 +5,8 @@
 
 <br>
 <h2>:cat: hello</h2>
-📝 알고리즘 풀이 및 일상 기록 업데이트 중 : https://hang-ni.tistory.com/ <br>
-<!--💬  3월 말 동덕여자중학교 교생 실습 예정<br> -->
+💬 https://hang-ni.tistory.com/ <br>
+<!--  3월 말 동덕여자중학교 교생 실습 예정<br> -->
 
 <br>
 <h2>:information_desk_person: introduce</h2>
