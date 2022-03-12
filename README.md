@@ -4,19 +4,17 @@
 </div>
 
 <br>
-<h2>hello</h2>
-:cat: welcome to nhy31-github
-:octocat: https://hang-ni.tistory.com/<br>
-:mailbox: nahay131@gmail.com / nahay131@naver.com<br>
-
-<br>
 <h2>:information_desk_person: introduce</h2>
 [2018.03~2022.08] 동덕여자대학교 컴퓨터학과 재학 <br>
 [2019.11~2022.08] 교직이수 이수 중 <br>
 [2020.09~2021.02] SK LOOKIE Project Leader  <br>
 [2021.09~2022.02] AI 웹서비스 동아리 DALC 운영진  <br> 
 
-
+<br>
+<h2>:cat: </h2>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Java&logoColor=white"/>
+https://hang-ni.tistory.com/<br>
+:mailbox: nahay131@gmail.com, nahay131@naver.com <br>
 <h2>:books: tech-stack </h2>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
