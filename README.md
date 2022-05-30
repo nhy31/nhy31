@@ -10,6 +10,12 @@
 🔖 [20.09~21.02] SK LOOKIE Project Leader  <br>
 🌱 [21.09~22.02] AI 웹서비스 동아리 DALC 운영진  <br> 
 
+(Github Stat)
+[![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhy31)]
+
+(Most Used Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhy31)
+
 
 
 
